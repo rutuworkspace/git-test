@@ -1,1 +1,1 @@
-This is test file from remote branch.
+This is test file from local branch.
