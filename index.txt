@@ -1,6 +1,1 @@
-
-This is data from loacl file
-
-remote data present.
-new data added at remote
-
+Hey, This is text from newly created collaborator
